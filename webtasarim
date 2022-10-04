@@ -1,0 +1,53 @@
+  
+  
+<html>
+
+	<head>
+  
+		<title>2.hafta ders</title>
+		<meta charset = "utf-8" />
+		<meta name = "kwywords" content = "dpü , kütahya, dumlupınar"/>
+		<meta name = "description" content = "İlk Html sayfa"/>
+    
+	</head>
+  
+  
+	<body>
+ 	               Merhaba Dünya</br>
+			Kış geliyor...
+			<p>Kütahya Dumlupınar Üniversitesi</p>
+			<p>hava soguk</p>
+			<!-- yorum satırı-->
+			<hr>
+			<h1>Kütahya Dumlupınar üniversitesi</h1>
+			<h2>Kütahya Dumlupınar üniversitesi</h2>
+			<h3>Kütahya Dumlupınar üniversitesi</h3>
+			<h4>Kütahya Dumlupınar üniversitesi</h4>
+			<h5>Kütahya Dumlupınar üniversitesi</h5>
+			<h6>Kütahya Dumlupınar üniversitesi</h6>
+			
+			
+			<!--sıralı liste için ol
+			    sırasız liste için ul
+		     
+			-->
+			
+			<ol>
+				<li>balikesirspor</li>
+				<li>Fenerbahce</li>      
+				<li>Galatasaray</li>
+				<li>Boca juniors</li>
+				<li>besiktas</li>
+			</ol>
+			
+			<ul>
+				<li>Balikesirspor</li>
+				<li>Fenerbahce</li>
+				<li>galatasaray</li>
+				<li>boca juniors</li>
+				<li>besiktas</li>
+			</ul>
+
+
+	</body>
+</html>
